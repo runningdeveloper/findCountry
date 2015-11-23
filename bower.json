@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "homepage": "https://github.com/runningdeveloper",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
@@ -24,8 +24,5 @@
     "angular": "~1.4.8",
     "turf": "~2.0.2",
     "lodash": "~3.10.1"
-  },
-  "devDependencies": {
-    "bootstrap": "~3.3.5"
   }
 }
