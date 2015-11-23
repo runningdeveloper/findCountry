@@ -1,0 +1,39 @@
+{
+  "name": "findCountry",
+  "description": "Angular factory to get the country and region for a website visitor",
+  "main": "findCountry.js",
+  "moduleType": [],
+  "keywords": [
+    "location"
+  ],
+  "authors": [
+    "Geoffrey Hunt"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/runningdeveloper",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "turf": "~2.0.2",
+    "lodash": "~3.10.1"
+  },
+  "version": "0.1.0",
+  "_release": "0.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.0",
+    "commit": "3a330df143757071cacfb6f06449671c7c61017f"
+  },
+  "_source": "git://github.com/runningdeveloper/findCountry.git",
+  "_target": "~0.1.0",
+  "_originalSource": "findCountry",
+  "_direct": true
+}
